@@ -1,5 +1,5 @@
 
-![Preview](spotify-clone/assets/spotify-preview.png)
+![Preview](spotify-clone/src/assets/spotify-preview.png)
 
 # React + Vite
 
